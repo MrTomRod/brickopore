@@ -80,7 +80,7 @@ bool Ev3::findWhite() const {
   }
 }
 
-void Ev3::sequence(const ServerIO& serverIO) const
+void Ev3::sequence(const ServerIO& serverIO) const {
   constexpr int kConsecutiveForColorChange = 25;
   constexpr int kMaxBlocks = 35;
 

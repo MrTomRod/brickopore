@@ -255,7 +255,7 @@ public class Brickopore extends javax.swing.JFrame {
         signalPanel1Layout.setHorizontalGroup(
             signalPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, signalPanel1Layout.createSequentialGroup()
-                .addGap(0, 1134, Short.MAX_VALUE)
+                .addGap(0, 2134, Short.MAX_VALUE)
                 .addComponent(filler1, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
         );
         signalPanel1Layout.setVerticalGroup(

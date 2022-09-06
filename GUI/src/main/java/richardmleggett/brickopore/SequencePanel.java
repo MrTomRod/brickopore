@@ -31,7 +31,7 @@ public class SequencePanel extends JPanel {
         //g.fillRect(0, 0, 2000, 2000);
 
 
-        g.setFont(new Font("Courier New", Font.BOLD, 36));
+        g.setFont(new Font("Courier New", Font.BOLD, 48));
         int xPos = 6;
 
         for (int i=0; i<sequence.length(); i++) {
@@ -50,7 +50,7 @@ public class SequencePanel extends JPanel {
             }
 
             g.drawString(base, xPos, 36);
-            xPos += 20;
+            xPos += 30;
         }
     }
 }

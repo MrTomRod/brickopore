@@ -25,7 +25,7 @@ public class SignalPanel extends JPanel {
     private int xOffset = 50;
     private int yOffset = 8;
     private int yScale = 40;
-    private int imageWidth = 505 * eventSize;
+    private int imageWidth = 1010 * eventSize;
     private int imageHeight = (NUM_COLOURS * yScale) + yOffset + yOffset;
     private BufferedImage signalImage = new BufferedImage(imageWidth, imageHeight, BufferedImage.TYPE_INT_RGB);
     private String sequence = "";
@@ -66,8 +66,8 @@ public class SignalPanel extends JPanel {
 
     public void plotSignal(int s, int c) {
         Graphics g = signalImage.getGraphics();
-        int minX = (int)Math.round(xOffset + ((s -1)*1.5));
-        int maxX = (int)Math.round(xOffset + (s*1.5));
+        int minX = (int)Math.round(xOffset + ((s -1)*3));
+        int maxX = (int)Math.round(xOffset + (s*3));
 
         g.setColor(Color.BLACK);
 
@@ -123,7 +123,7 @@ public class SignalPanel extends JPanel {
 //            }
 //        }
 
-            g.setFont(new Font("Courier New", Font.BOLD, 48));
+            g.setFont(new Font("Courier New", Font.BOLD, 72));
             int xPos = 105;
 
             for (int i=0; i<sequence.length(); i++) {
@@ -142,7 +142,7 @@ public class SignalPanel extends JPanel {
                 }
 
                 g.drawString(base, xPos, imageHeight + 125);
-                xPos += 30;
+                xPos += 60;
             }
 
 

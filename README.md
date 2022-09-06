@@ -13,6 +13,7 @@ This repo combines richardmleggett's two LEGO sequencer repos:
 serial links speed
 - Allows for "reads" of more than 24 nucleotides
 - A "Copy Sequence" button was added to the Java GUI
+- Doubled screen width, matched letter size
 
 
 ## Notes:

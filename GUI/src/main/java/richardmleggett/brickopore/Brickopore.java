@@ -31,6 +31,9 @@ import javax.swing.ImageIcon;
 import javax.swing.JFileChooser;
 import javax.swing.JOptionPane;
 import javax.swing.filechooser.FileNameExtensionFilter;
+import java.awt.datatransfer.StringSelection;
+import java.awt.Toolkit;
+import java.awt.datatransfer.Clipboard;
 
 /**
  *
@@ -90,6 +93,7 @@ public class Brickopore extends javax.swing.JFrame {
         nudgeFwdButton = new javax.swing.JButton();
         blastButton = new javax.swing.JButton();
         saveURLButton = new javax.swing.JButton();
+        copySequenceButton = new javax.swing.JButton();
         debugButton = new javax.swing.JButton();
         beeTrailCheckbox = new javax.swing.JCheckBox();
         resetButton = new javax.swing.JButton();
@@ -161,6 +165,13 @@ public class Brickopore extends javax.swing.JFrame {
                 saveURLButtonActionPerformed(evt);
             }
         });
+        
+        copySequenceButton.setText("Copy Sequence");
+        copySequenceButton.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                copySequenceButtonActionPerformed(evt);
+            }
+        });
 
         debugButton.setText("Debug");
         debugButton.addActionListener(new java.awt.event.ActionListener() {
@@ -207,6 +218,8 @@ public class Brickopore extends javax.swing.JFrame {
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addComponent(saveURLButton)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                .addComponent(copySequenceButton)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addComponent(beeTrailCheckbox)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addComponent(debugButton)
@@ -228,6 +241,7 @@ public class Brickopore extends javax.swing.JFrame {
                     .addComponent(nudgeFwdButton)
                     .addComponent(blastButton)
                     .addComponent(saveURLButton)
+                    .addComponent(copySequenceButton)
                     .addComponent(debugButton)
                     .addComponent(beeTrailCheckbox)
                     .addComponent(resetButton))
@@ -331,6 +345,24 @@ public class Brickopore extends javax.swing.JFrame {
         toggleMiniFigureState();
 
     }//GEN-LAST:event_scientistsLabelMouseClicked
+    
+    
+    /**
+     * @author MrTomRod
+     */
+    private void copySequenceButtonActionPerformed(java.awt.event.ActionEvent evt) {
+        // Read sequence
+        String read = "NNNNNNNNNN";
+        if (server != null) {
+            read = server.getRead();
+        }
+
+        // Copy sequence to clipboard
+        StringSelection stringSelection = new StringSelection(read);
+        Clipboard clipboard = Toolkit.getDefaultToolkit().getSystemClipboard();
+        clipboard.setContents(stringSelection, null);
+    }
+
 
     private void saveURLButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_saveURLButtonActionPerformed
         JFileChooser jfc = new JFileChooser();
@@ -554,6 +586,7 @@ public class Brickopore extends javax.swing.JFrame {
     private javax.swing.JTextField portTextField;
     private javax.swing.JButton resetButton;
     private javax.swing.JButton saveURLButton;
+    private javax.swing.JButton copySequenceButton;
     private javax.swing.JLabel scientistsLabel;
     private javax.swing.JButton sequenceButton;
     private richardmleggett.brickopore.SignalPanel signalPanel1;

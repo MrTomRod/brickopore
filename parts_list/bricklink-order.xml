@@ -1,0 +1,682 @@
+<INVENTORY>
+    <ITEM>
+        <ITEMTYPE>P</ITEMTYPE>
+        <ITEMID>2431</ITEMID>
+        <COLOR>1</COLOR>
+        <MINQTY>1</MINQTY>
+        <REMARKS>Tile 1 x 4 (White)</REMARKS>
+        <NOTIFY>N</NOTIFY>
+    </ITEM>
+    <ITEM>
+        <ITEMTYPE>P</ITEMTYPE>
+        <ITEMID>2431</ITEMID>
+        <COLOR>85</COLOR>
+        <MINQTY>1</MINQTY>
+        <REMARKS>Tile 1 x 4 (Dark Bluish Gray)</REMARKS>
+        <NOTIFY>N</NOTIFY>
+    </ITEM>
+    <ITEM>
+        <ITEMTYPE>P</ITEMTYPE>
+        <ITEMID>2454</ITEMID>
+        <COLOR>5</COLOR>
+        <MINQTY>2</MINQTY>
+        <REMARKS>Brick 1 x 2 x 5 (Red)</REMARKS>
+        <NOTIFY>N</NOTIFY>
+    </ITEM>
+    <ITEM>
+        <ITEMTYPE>P</ITEMTYPE>
+        <ITEMID>2780</ITEMID>
+        <COLOR>11</COLOR>
+        <MINQTY>93</MINQTY>
+        <REMARKS>Technic, Pin with Friction Ridges Lengthwise WITH Center Slots (Black)</REMARKS>
+        <NOTIFY>N</NOTIFY>
+    </ITEM>
+    <ITEM>
+        <ITEMTYPE>P</ITEMTYPE>
+        <ITEMID>3003</ITEMID>
+        <COLOR>86</COLOR>
+        <MINQTY>2</MINQTY>
+        <REMARKS>Brick 2 x 2 (Light Bluish Gray)</REMARKS>
+        <NOTIFY>N</NOTIFY>
+    </ITEM>
+    <ITEM>
+        <ITEMTYPE>P</ITEMTYPE>
+        <ITEMID>3004</ITEMID>
+        <COLOR>5</COLOR>
+        <MINQTY>2</MINQTY>
+        <REMARKS>Brick 1 x 2 (Red)</REMARKS>
+        <NOTIFY>N</NOTIFY>
+    </ITEM>
+    <ITEM>
+        <ITEMTYPE>P</ITEMTYPE>
+        <ITEMID>3004</ITEMID>
+        <COLOR>1</COLOR>
+        <MINQTY>3</MINQTY>
+        <REMARKS>Brick 1 x 2 (White)</REMARKS>
+        <NOTIFY>N</NOTIFY>
+    </ITEM>
+    <ITEM>
+        <ITEMTYPE>P</ITEMTYPE>
+        <ITEMID>3004</ITEMID>
+        <COLOR>86</COLOR>
+        <MINQTY>2</MINQTY>
+        <REMARKS>Brick 1 x 2 (Light Bluish Gray)</REMARKS>
+        <NOTIFY>N</NOTIFY>
+    </ITEM>
+    <ITEM>
+        <ITEMTYPE>P</ITEMTYPE>
+        <ITEMID>3005</ITEMID>
+        <COLOR>5</COLOR>
+        <MINQTY>3</MINQTY>
+        <REMARKS>Brick 1 x 1 (Red)</REMARKS>
+        <NOTIFY>N</NOTIFY>
+    </ITEM>
+    <ITEM>
+        <ITEMTYPE>P</ITEMTYPE>
+        <ITEMID>3005</ITEMID>
+        <COLOR>1</COLOR>
+        <MINQTY>3</MINQTY>
+        <REMARKS>Brick 1 x 1 (White)</REMARKS>
+        <NOTIFY>N</NOTIFY>
+    </ITEM>
+    <ITEM>
+        <ITEMTYPE>P</ITEMTYPE>
+        <ITEMID>3005</ITEMID>
+        <COLOR>12</COLOR>
+        <MINQTY>1</MINQTY>
+        <REMARKS>Brick 1 x 1 (Trans-Clear)</REMARKS>
+        <NOTIFY>N</NOTIFY>
+    </ITEM>
+    <ITEM>
+        <ITEMTYPE>P</ITEMTYPE>
+        <ITEMID>3008</ITEMID>
+        <COLOR>5</COLOR>
+        <MINQTY>2</MINQTY>
+        <REMARKS>Brick 1 x 8 (Red)</REMARKS>
+        <NOTIFY>N</NOTIFY>
+    </ITEM>
+    <ITEM>
+        <ITEMTYPE>P</ITEMTYPE>
+        <ITEMID>3010</ITEMID>
+        <COLOR>86</COLOR>
+        <MINQTY>1</MINQTY>
+        <REMARKS>Brick 1 x 4 (Light Bluish Gray)</REMARKS>
+        <NOTIFY>N</NOTIFY>
+    </ITEM>
+    <ITEM>
+        <ITEMTYPE>P</ITEMTYPE>
+        <ITEMID>3010</ITEMID>
+        <COLOR>1</COLOR>
+        <MINQTY>2</MINQTY>
+        <REMARKS>Brick 1 x 4 (White)</REMARKS>
+        <NOTIFY>N</NOTIFY>
+    </ITEM>
+    <ITEM>
+        <ITEMTYPE>P</ITEMTYPE>
+        <ITEMID>30134</ITEMID>
+        <COLOR>85</COLOR>
+        <MINQTY>1</MINQTY>
+        <REMARKS>Stairs 7 x 4 x 6 Straight Open (Dark Bluish Gray)</REMARKS>
+        <NOTIFY>N</NOTIFY>
+    </ITEM>
+    <ITEM>
+        <ITEMTYPE>P</ITEMTYPE>
+        <ITEMID>30162</ITEMID>
+        <COLOR>85</COLOR>
+        <MINQTY>1</MINQTY>
+        <REMARKS>Minifig, Utensil Binoculars Town (Dark Bluish Gray)</REMARKS>
+        <NOTIFY>N</NOTIFY>
+    </ITEM>
+    <ITEM>
+        <ITEMTYPE>P</ITEMTYPE>
+        <ITEMID>3020</ITEMID>
+        <COLOR>85</COLOR>
+        <MINQTY>2</MINQTY>
+        <REMARKS>Plate 2 x 4 (Dark Bluish Gray)</REMARKS>
+        <NOTIFY>N</NOTIFY>
+    </ITEM>
+    <ITEM>
+        <ITEMTYPE>P</ITEMTYPE>
+        <ITEMID>3022</ITEMID>
+        <COLOR>85</COLOR>
+        <MINQTY>3</MINQTY>
+        <REMARKS>Plate 2 x 2 (Dark Bluish Gray)</REMARKS>
+        <NOTIFY>N</NOTIFY>
+    </ITEM>
+    <ITEM>
+        <ITEMTYPE>P</ITEMTYPE>
+        <ITEMID>3022</ITEMID>
+        <COLOR>8</COLOR>
+        <MINQTY>1</MINQTY>
+        <REMARKS>Plate 2 x 2 (Brown)</REMARKS>
+        <NOTIFY>N</NOTIFY>
+    </ITEM>
+    <ITEM>
+        <ITEMTYPE>P</ITEMTYPE>
+        <ITEMID>3023</ITEMID>
+        <COLOR>86</COLOR>
+        <MINQTY>1</MINQTY>
+        <REMARKS>Plate 1 x 2 (Light Bluish Gray)</REMARKS>
+        <NOTIFY>N</NOTIFY>
+    </ITEM>
+    <ITEM>
+        <ITEMTYPE>P</ITEMTYPE>
+        <ITEMID>3023</ITEMID>
+        <COLOR>11</COLOR>
+        <MINQTY>2</MINQTY>
+        <REMARKS>Plate 1 x 2 (Black)</REMARKS>
+        <NOTIFY>N</NOTIFY>
+    </ITEM>
+    <ITEM>
+        <ITEMTYPE>P</ITEMTYPE>
+        <ITEMID>3023</ITEMID>
+        <COLOR>1</COLOR>
+        <MINQTY>3</MINQTY>
+        <REMARKS>Plate 1 x 2 (White)</REMARKS>
+        <NOTIFY>N</NOTIFY>
+    </ITEM>
+    <ITEM>
+        <ITEMTYPE>P</ITEMTYPE>
+        <ITEMID>3024</ITEMID>
+        <COLOR>5</COLOR>
+        <MINQTY>1</MINQTY>
+        <REMARKS>Plate 1 x 1 (Red)</REMARKS>
+        <NOTIFY>N</NOTIFY>
+    </ITEM>
+    <ITEM>
+        <ITEMTYPE>P</ITEMTYPE>
+        <ITEMID>3024</ITEMID>
+        <COLOR>1</COLOR>
+        <MINQTY>1</MINQTY>
+        <REMARKS>Plate 1 x 1 (White)</REMARKS>
+        <NOTIFY>N</NOTIFY>
+    </ITEM>
+    <ITEM>
+        <ITEMTYPE>P</ITEMTYPE>
+        <ITEMID>3031</ITEMID>
+        <COLOR>85</COLOR>
+        <MINQTY>1</MINQTY>
+        <REMARKS>Plate 4 x 4 (Dark Bluish Gray)</REMARKS>
+        <NOTIFY>N</NOTIFY>
+    </ITEM>
+    <ITEM>
+        <ITEMTYPE>P</ITEMTYPE>
+        <ITEMID>3032</ITEMID>
+        <COLOR>85</COLOR>
+        <MINQTY>14</MINQTY>
+        <REMARKS>Plate 4 x 6 (Dark Bluish Gray)</REMARKS>
+        <NOTIFY>N</NOTIFY>
+    </ITEM>
+    <ITEM>
+        <ITEMTYPE>P</ITEMTYPE>
+        <ITEMID>3035</ITEMID>
+        <COLOR>11</COLOR>
+        <MINQTY>4</MINQTY>
+        <REMARKS>Plate 4 x 8 (Black)</REMARKS>
+        <NOTIFY>N</NOTIFY>
+    </ITEM>
+    <ITEM>
+        <ITEMTYPE>P</ITEMTYPE>
+        <ITEMID>3039</ITEMID>
+        <COLOR>86</COLOR>
+        <MINQTY>1</MINQTY>
+        <REMARKS>Slope 45 2 x 2 (Light Bluish Gray)</REMARKS>
+        <NOTIFY>N</NOTIFY>
+    </ITEM>
+    <ITEM>
+        <ITEMTYPE>P</ITEMTYPE>
+        <ITEMID>3039p23</ITEMID>
+        <COLOR>1</COLOR>
+        <MINQTY>1</MINQTY>
+        <REMARKS>Slope 45 2 x 2 with Computer Screen Pattern (White)</REMARKS>
+        <NOTIFY>N</NOTIFY>
+    </ITEM>
+    <ITEM>
+        <ITEMTYPE>P</ITEMTYPE>
+        <ITEMID>3068a</ITEMID>
+        <COLOR>86</COLOR>
+        <MINQTY>1</MINQTY>
+        <REMARKS>Tile 2 x 2 without Groove (Light Bluish Gray)</REMARKS>
+        <NOTIFY>N</NOTIFY>
+    </ITEM>
+    <ITEM>
+        <ITEMTYPE>P</ITEMTYPE>
+        <ITEMID>3068bpb0062</ITEMID>
+        <COLOR>1</COLOR>
+        <MINQTY>1</MINQTY>
+        <REMARKS>Tile 2 x 2 with Computer Monitor Pattern 1, with Black Power Switch Icon (White)</REMARKS>
+        <NOTIFY>N</NOTIFY>
+    </ITEM>
+    <ITEM>
+        <ITEMTYPE>P</ITEMTYPE>
+        <ITEMID>3069b</ITEMID>
+        <COLOR>86</COLOR>
+        <MINQTY>2</MINQTY>
+        <REMARKS>Tile 1 x 2 with Groove (Light Bluish Gray)</REMARKS>
+        <NOTIFY>N</NOTIFY>
+    </ITEM>
+    <ITEM>
+        <ITEMTYPE>P</ITEMTYPE>
+        <ITEMID>3069b</ITEMID>
+        <COLOR>1</COLOR>
+        <MINQTY>1</MINQTY>
+        <REMARKS>Tile 1 x 2 with Groove (White)</REMARKS>
+        <NOTIFY>N</NOTIFY>
+    </ITEM>
+    <ITEM>
+        <ITEMTYPE>P</ITEMTYPE>
+        <ITEMID>3069b</ITEMID>
+        <COLOR>12</COLOR>
+        <MINQTY>1</MINQTY>
+        <REMARKS>Tile 1 x 2 with Groove (Trans-Clear)</REMARKS>
+        <NOTIFY>N</NOTIFY>
+    </ITEM>
+    <ITEM>
+        <ITEMTYPE>P</ITEMTYPE>
+        <ITEMID>3069bpb030</ITEMID>
+        <COLOR>1</COLOR>
+        <MINQTY>1</MINQTY>
+        <REMARKS>Tile 1 x 2 with Computer Keyboard Standard Pattern (White)</REMARKS>
+        <NOTIFY>N</NOTIFY>
+    </ITEM>
+    <ITEM>
+        <ITEMTYPE>P</ITEMTYPE>
+        <ITEMID>3070b</ITEMID>
+        <COLOR>85</COLOR>
+        <MINQTY>1</MINQTY>
+        <REMARKS>Tile 1 x 1 with Groove (Dark Bluish Gray)</REMARKS>
+        <NOTIFY>N</NOTIFY>
+    </ITEM>
+    <ITEM>
+        <ITEMTYPE>P</ITEMTYPE>
+        <ITEMID>4265c</ITEMID>
+        <COLOR>3</COLOR>
+        <MINQTY>4</MINQTY>
+        <REMARKS>Technic Bush 1/2 Smooth (Yellow)</REMARKS>
+        <NOTIFY>N</NOTIFY>
+    </ITEM>
+    <ITEM>
+        <ITEMTYPE>P</ITEMTYPE>
+        <ITEMID>32140</ITEMID>
+        <COLOR>11</COLOR>
+        <MINQTY>1</MINQTY>
+        <REMARKS>Technic, Liftarm 2 x 4 L-Shape Thick (Black)</REMARKS>
+        <NOTIFY>N</NOTIFY>
+    </ITEM>
+    <ITEM>
+        <ITEMTYPE>P</ITEMTYPE>
+        <ITEMID>32271</ITEMID>
+        <COLOR>11</COLOR>
+        <MINQTY>2</MINQTY>
+        <REMARKS>Technic, Liftarm 1 x 9 Bent (7 - 3) Thick (Black)</REMARKS>
+        <NOTIFY>N</NOTIFY>
+    </ITEM>
+    <ITEM>
+        <ITEMTYPE>P</ITEMTYPE>
+        <ITEMID>32278</ITEMID>
+        <COLOR>1</COLOR>
+        <MINQTY>14</MINQTY>
+        <REMARKS>Technic, Liftarm 1 x 15 Thick (White)</REMARKS>
+        <NOTIFY>N</NOTIFY>
+    </ITEM>
+    <ITEM>
+        <ITEMTYPE>P</ITEMTYPE>
+        <ITEMID>32278</ITEMID>
+        <COLOR>11</COLOR>
+        <MINQTY>11</MINQTY>
+        <REMARKS>Technic, Liftarm 1 x 15 Thick (Black)</REMARKS>
+        <NOTIFY>N</NOTIFY>
+    </ITEM>
+    <ITEM>
+        <ITEMTYPE>P</ITEMTYPE>
+        <ITEMID>32316</ITEMID>
+        <COLOR>11</COLOR>
+        <MINQTY>1</MINQTY>
+        <REMARKS>Technic, Liftarm 1 x 5 Thick (Black)</REMARKS>
+        <NOTIFY>N</NOTIFY>
+    </ITEM>
+    <ITEM>
+        <ITEMTYPE>P</ITEMTYPE>
+        <ITEMID>32316</ITEMID>
+        <COLOR>86</COLOR>
+        <MINQTY>1</MINQTY>
+        <REMARKS>Technic, Liftarm 1 x 5 Thick (Light Bluish Gray)</REMARKS>
+        <NOTIFY>N</NOTIFY>
+    </ITEM>
+    <ITEM>
+        <ITEMTYPE>P</ITEMTYPE>
+        <ITEMID>32524</ITEMID>
+        <COLOR>86</COLOR>
+        <MINQTY>4</MINQTY>
+        <REMARKS>Technic, Liftarm 1 x 7 Thick (Light Bluish Gray)</REMARKS>
+        <NOTIFY>N</NOTIFY>
+    </ITEM>
+    <ITEM>
+        <ITEMTYPE>P</ITEMTYPE>
+        <ITEMID>32525</ITEMID>
+        <COLOR>86</COLOR>
+        <MINQTY>4</MINQTY>
+        <REMARKS>Technic, Liftarm 1 x 11 Thick (Light Bluish Gray)</REMARKS>
+        <NOTIFY>N</NOTIFY>
+    </ITEM>
+    <ITEM>
+        <ITEMTYPE>P</ITEMTYPE>
+        <ITEMID>32526</ITEMID>
+        <COLOR>11</COLOR>
+        <MINQTY>4</MINQTY>
+        <REMARKS>Technic, Liftarm 3 x 5 L-Shape Thick (Black)</REMARKS>
+        <NOTIFY>N</NOTIFY>
+    </ITEM>
+    <ITEM>
+        <ITEMTYPE>P</ITEMTYPE>
+        <ITEMID>32828</ITEMID>
+        <COLOR>11</COLOR>
+        <MINQTY>1</MINQTY>
+        <REMARKS>Bar 1L with 1 x 1 Round Plate with Hollow Stud (Black)</REMARKS>
+        <NOTIFY>N</NOTIFY>
+    </ITEM>
+    <ITEM>
+        <ITEMTYPE>P</ITEMTYPE>
+        <ITEMID>3622</ITEMID>
+        <COLOR>1</COLOR>
+        <MINQTY>1</MINQTY>
+        <REMARKS>Brick 1 x 3 (White)</REMARKS>
+        <NOTIFY>N</NOTIFY>
+    </ITEM>
+    <ITEM>
+        <ITEMTYPE>P</ITEMTYPE>
+        <ITEMID>3622</ITEMID>
+        <COLOR>5</COLOR>
+        <MINQTY>2</MINQTY>
+        <REMARKS>Brick 1 x 3 (Red)</REMARKS>
+        <NOTIFY>N</NOTIFY>
+    </ITEM>
+    <ITEM>
+        <ITEMTYPE>P</ITEMTYPE>
+        <ITEMID>3623</ITEMID>
+        <COLOR>1</COLOR>
+        <MINQTY>4</MINQTY>
+        <REMARKS>Plate 1 x 3 (White)</REMARKS>
+        <NOTIFY>N</NOTIFY>
+    </ITEM>
+    <ITEM>
+        <ITEMTYPE>P</ITEMTYPE>
+        <ITEMID>3623</ITEMID>
+        <COLOR>85</COLOR>
+        <MINQTY>1</MINQTY>
+        <REMARKS>Plate 1 x 3 (Dark Bluish Gray)</REMARKS>
+        <NOTIFY>N</NOTIFY>
+    </ITEM>
+    <ITEM>
+        <ITEMTYPE>P</ITEMTYPE>
+        <ITEMID>3648</ITEMID>
+        <COLOR>85</COLOR>
+        <MINQTY>1</MINQTY>
+        <REMARKS>Technic, Gear 24 Tooth (New Style with Single Axle Hole) (Dark Bluish Gray)</REMARKS>
+        <NOTIFY>N</NOTIFY>
+    </ITEM>
+    <ITEM>
+        <ITEMTYPE>P</ITEMTYPE>
+        <ITEMID>3660</ITEMID>
+        <COLOR>85</COLOR>
+        <MINQTY>1</MINQTY>
+        <REMARKS>Slope, Inverted 45 2 x 2 (Dark Bluish Gray)</REMARKS>
+        <NOTIFY>N</NOTIFY>
+    </ITEM>
+    <ITEM>
+        <ITEMTYPE>P</ITEMTYPE>
+        <ITEMID>3673</ITEMID>
+        <COLOR>86</COLOR>
+        <MINQTY>64</MINQTY>
+        <REMARKS>Technic, Pin without Friction Ridges Lengthwise (Light Bluish Gray)</REMARKS>
+        <NOTIFY>N</NOTIFY>
+    </ITEM>
+    <ITEM>
+        <ITEMTYPE>P</ITEMTYPE>
+        <ITEMID>3710</ITEMID>
+        <COLOR>85</COLOR>
+        <MINQTY>1</MINQTY>
+        <REMARKS>Plate 1 x 4 (Dark Bluish Gray)</REMARKS>
+        <NOTIFY>N</NOTIFY>
+    </ITEM>
+    <ITEM>
+        <ITEMTYPE>P</ITEMTYPE>
+        <ITEMID>3713</ITEMID>
+        <COLOR>86</COLOR>
+        <MINQTY>6</MINQTY>
+        <REMARKS>Technic Bush (Light Bluish Gray)</REMARKS>
+        <NOTIFY>N</NOTIFY>
+    </ITEM>
+    <ITEM>
+        <ITEMTYPE>P</ITEMTYPE>
+        <ITEMID>3737</ITEMID>
+        <COLOR>11</COLOR>
+        <MINQTY>2</MINQTY>
+        <REMARKS>Technic, Axle 10 (Black)</REMARKS>
+        <NOTIFY>N</NOTIFY>
+    </ITEM>
+    <ITEM>
+        <ITEMTYPE>P</ITEMTYPE>
+        <ITEMID>3743</ITEMID>
+        <COLOR>86</COLOR>
+        <MINQTY>11</MINQTY>
+        <REMARKS>Technic, Gear Rack 1 x 4 (Light Bluish Gray)</REMARKS>
+        <NOTIFY>N</NOTIFY>
+    </ITEM>
+    <ITEM>
+        <ITEMTYPE>P</ITEMTYPE>
+        <ITEMID>3794a</ITEMID>
+        <COLOR>85</COLOR>
+        <MINQTY>1</MINQTY>
+        <REMARKS>Plate, Modified 1 x 2 with 1 Stud WITHOUT Groove (Jumper) (Dark Bluish Gray)</REMARKS>
+        <NOTIFY>N</NOTIFY>
+    </ITEM>
+    <ITEM>
+        <ITEMTYPE>P</ITEMTYPE>
+        <ITEMID>3899</ITEMID>
+        <COLOR>5</COLOR>
+        <MINQTY>1</MINQTY>
+        <REMARKS>Minifig, Utensil Cup (Red)</REMARKS>
+        <NOTIFY>N</NOTIFY>
+    </ITEM>
+    <ITEM>
+        <ITEMTYPE>P</ITEMTYPE>
+        <ITEMID>3937</ITEMID>
+        <COLOR>1</COLOR>
+        <MINQTY>1</MINQTY>
+        <REMARKS>Hinge Brick 1 x 2 Base (White)</REMARKS>
+        <NOTIFY>N</NOTIFY>
+    </ITEM>
+    <ITEM>
+        <ITEMTYPE>P</ITEMTYPE>
+        <ITEMID>3938</ITEMID>
+        <COLOR>1</COLOR>
+        <MINQTY>1</MINQTY>
+        <REMARKS>Hinge Brick 1 x 2 Top Plate Thin (White)</REMARKS>
+        <NOTIFY>N</NOTIFY>
+    </ITEM>
+    <ITEM>
+        <ITEMTYPE>P</ITEMTYPE>
+        <ITEMID>40490</ITEMID>
+        <COLOR>86</COLOR>
+        <MINQTY>6</MINQTY>
+        <REMARKS>Technic, Liftarm 1 x 9 Thick (Light Bluish Gray)</REMARKS>
+        <NOTIFY>N</NOTIFY>
+    </ITEM>
+    <ITEM>
+        <ITEMTYPE>P</ITEMTYPE>
+        <ITEMID>41239</ITEMID>
+        <COLOR>86</COLOR>
+        <MINQTY>2</MINQTY>
+        <REMARKS>Technic, Liftarm 1 x 13 Thick (Light Bluish Gray)</REMARKS>
+        <NOTIFY>N</NOTIFY>
+    </ITEM>
+    <ITEM>
+        <ITEMTYPE>P</ITEMTYPE>
+        <ITEMID>41239</ITEMID>
+        <COLOR>11</COLOR>
+        <MINQTY>10</MINQTY>
+        <REMARKS>Technic, Liftarm 1 x 13 Thick (Black)</REMARKS>
+        <NOTIFY>N</NOTIFY>
+    </ITEM>
+    <ITEM>
+        <ITEMTYPE>P</ITEMTYPE>
+        <ITEMID>4533</ITEMID>
+        <COLOR>1</COLOR>
+        <MINQTY>1</MINQTY>
+        <REMARKS>Container, Cupboard 2 x 3 x 2 Door (White)</REMARKS>
+        <NOTIFY>N</NOTIFY>
+    </ITEM>
+    <ITEM>
+        <ITEMTYPE>P</ITEMTYPE>
+        <ITEMID>4536</ITEMID>
+        <COLOR>1</COLOR>
+        <MINQTY>2</MINQTY>
+        <REMARKS>Container, Cupboard 2 x 3 x X Drawer (White)</REMARKS>
+        <NOTIFY>N</NOTIFY>
+    </ITEM>
+    <ITEM>
+        <ITEMTYPE>P</ITEMTYPE>
+        <ITEMID>48989</ITEMID>
+        <COLOR>86</COLOR>
+        <MINQTY>8</MINQTY>
+        <REMARKS>Technic, Pin Connector Perpendicular 3L with 4 Pins (Light Bluish Gray)</REMARKS>
+        <NOTIFY>N</NOTIFY>
+    </ITEM>
+    <ITEM>
+        <ITEMTYPE>P</ITEMTYPE>
+        <ITEMID>60484</ITEMID>
+        <COLOR>11</COLOR>
+        <MINQTY>3</MINQTY>
+        <REMARKS>Technic, Liftarm 3 x 3 T-Shape Thick (Black)</REMARKS>
+        <NOTIFY>N</NOTIFY>
+    </ITEM>
+    <ITEM>
+        <ITEMTYPE>P</ITEMTYPE>
+        <ITEMID>6091</ITEMID>
+        <COLOR>11</COLOR>
+        <MINQTY>1</MINQTY>
+        <REMARKS>Brick, Modified 1 x 2 x 1 1/3 with Curved Top (Black)</REMARKS>
+        <NOTIFY>N</NOTIFY>
+    </ITEM>
+    <ITEM>
+        <ITEMTYPE>P</ITEMTYPE>
+        <ITEMID>6091</ITEMID>
+        <COLOR>85</COLOR>
+        <MINQTY>1</MINQTY>
+        <REMARKS>Brick, Modified 1 x 2 x 1 1/3 with Curved Top (Dark Bluish Gray)</REMARKS>
+        <NOTIFY>N</NOTIFY>
+    </ITEM>
+    <ITEM>
+        <ITEMTYPE>P</ITEMTYPE>
+        <ITEMID>64178</ITEMID>
+        <COLOR>86</COLOR>
+        <MINQTY>5</MINQTY>
+        <REMARKS>Technic, Liftarm 5 x 11 Open Center Frame Thick (Light Bluish Gray)</REMARKS>
+        <NOTIFY>N</NOTIFY>
+    </ITEM>
+    <ITEM>
+        <ITEMTYPE>P</ITEMTYPE>
+        <ITEMID>64179</ITEMID>
+        <COLOR>86</COLOR>
+        <MINQTY>13</MINQTY>
+        <REMARKS>Technic, Liftarm 5 x 7 Open Center Frame Thick (Light Bluish Gray)</REMARKS>
+        <NOTIFY>N</NOTIFY>
+    </ITEM>
+    <ITEM>
+        <ITEMTYPE>P</ITEMTYPE>
+        <ITEMID>6558</ITEMID>
+        <COLOR>7</COLOR>
+        <MINQTY>54</MINQTY>
+        <REMARKS>Technic, Pin 3L with Friction Ridges Lengthwise (Blue)</REMARKS>
+        <NOTIFY>N</NOTIFY>
+    </ITEM>
+    <ITEM>
+        <ITEMTYPE>P</ITEMTYPE>
+        <ITEMID>6629</ITEMID>
+        <COLOR>11</COLOR>
+        <MINQTY>2</MINQTY>
+        <REMARKS>Technic, Liftarm 1 x 9 Bent (6 - 4) Thick (Black)</REMARKS>
+        <NOTIFY>N</NOTIFY>
+    </ITEM>
+    <ITEM>
+        <ITEMTYPE>P</ITEMTYPE>
+        <ITEMID>87083</ITEMID>
+        <COLOR>85</COLOR>
+        <MINQTY>1</MINQTY>
+        <REMARKS>Technic, Axle 4 with Stop (Dark Bluish Gray)</REMARKS>
+        <NOTIFY>N</NOTIFY>
+    </ITEM>
+    <ITEM>
+        <ITEMTYPE>P</ITEMTYPE>
+        <ITEMID>87087</ITEMID>
+        <COLOR>86</COLOR>
+        <MINQTY>1</MINQTY>
+        <REMARKS>Brick, Modified 1 x 1 with Stud on 1 Side (Light Bluish Gray)</REMARKS>
+        <NOTIFY>N</NOTIFY>
+    </ITEM>
+    <ITEM>
+        <ITEMTYPE>P</ITEMTYPE>
+        <ITEMID>4532</ITEMID>
+        <COLOR>86</COLOR>
+        <MINQTY>2</MINQTY>
+        <REMARKS>Container, Cupboard 2 x 3 x 2 (Light Bluish Gray)</REMARKS>
+        <NOTIFY>N</NOTIFY>
+    </ITEM>
+    <ITEM>
+        <ITEMTYPE>P</ITEMTYPE>
+        <ITEMID>95228</ITEMID>
+        <COLOR>12</COLOR>
+        <MINQTY>1</MINQTY>
+        <REMARKS>Minifig, Utensil Bottle (Trans-Clear)</REMARKS>
+        <NOTIFY>N</NOTIFY>
+    </ITEM>
+    <ITEM>
+        <ITEMTYPE>P</ITEMTYPE>
+        <ITEMID>98138</ITEMID>
+        <COLOR>7</COLOR>
+        <MINQTY>1</MINQTY>
+        <REMARKS>Tile, Round 1 x 1 (Blue)</REMARKS>
+        <NOTIFY>N</NOTIFY>
+    </ITEM>
+    <ITEM>
+        <ITEMTYPE>P</ITEMTYPE>
+        <ITEMID>98138</ITEMID>
+        <COLOR>3</COLOR>
+        <MINQTY>1</MINQTY>
+        <REMARKS>Tile, Round 1 x 1 (Yellow)</REMARKS>
+        <NOTIFY>N</NOTIFY>
+    </ITEM>
+    <ITEM>
+        <ITEMTYPE>P</ITEMTYPE>
+        <ITEMID>98138</ITEMID>
+        <COLOR>86</COLOR>
+        <MINQTY>1</MINQTY>
+        <REMARKS>Tile, Round 1 x 1 (Light Bluish Gray)</REMARKS>
+        <NOTIFY>N</NOTIFY>
+    </ITEM>
+    <ITEM>
+        <ITEMTYPE>P</ITEMTYPE>
+        <ITEMID>98138</ITEMID>
+        <COLOR>8</COLOR>
+        <MINQTY>1</MINQTY>
+        <REMARKS>Tile, Round 1 x 1 (Brown)</REMARKS>
+        <NOTIFY>N</NOTIFY>
+    </ITEM>
+    <ITEM>
+        <ITEMTYPE>P</ITEMTYPE>
+        <ITEMID>99781</ITEMID>
+        <COLOR>86</COLOR>
+        <MINQTY>1</MINQTY>
+        <REMARKS>Bracket 1 x 2 - 1 x 2 (Light Bluish Gray)</REMARKS>
+        <NOTIFY>N</NOTIFY>
+    </ITEM>
+    <ITEM>
+        <ITEMTYPE>P</ITEMTYPE>
+        <ITEMID>3062old</ITEMID>
+        <COLOR>12</COLOR>
+        <MINQTY>2</MINQTY>
+        <REMARKS>Brick, Round 1 x 1 Old - No Bottom Lip (Trans-Clear)</REMARKS>
+        <NOTIFY>N</NOTIFY>
+    </ITEM>
+</INVENTORY>
